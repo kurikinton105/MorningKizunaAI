@@ -4,7 +4,7 @@
 現在、Slack BotとDiscord Botに対応しています。
 Google fromにwebhookURLを送信すると通知が届くようになります。
 
-- グーグルフォーム
+- Googleフォーム
 https://docs.google.com/forms/d/e/1FAIpQLScrBF_1cD_vNB3E18jl-2FWkd8REe6OMfvs5YeIG_DsQ6vcyg/viewform
 
 webhookURLの取得方法
@@ -13,6 +13,11 @@ webhookURLの取得方法
 - Discord:https://discord.com/developers/applications からNew Applicationを押して選択をすると取得できます。
 
 2021年4月28日に行われたLT会で紹介したアプリケーションです。
+
+## 【エンジニア向け】 オンライン学生LT大会※視聴者募集！
+https://talent.supporterz.jp/events/dc5afb17-5a6e-4653-bd62-3b74d95c488c/
+
+|yama|朝起きられないのでキズナアイのおはようツイートだけを通知して起きられるBOTを作った|息抜き開発で作ったBOTの紹介をします。Python,Heroku,TwitterAPI,Googleフォーム,スプレットシートなどを使いました。|10分|
 
 # How To Use
 config.pyを記述する（TwitterAPIのアクセストークンやスプレットシートについての情報が必要です）
